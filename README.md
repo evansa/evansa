@@ -8,6 +8,7 @@
 
 - 🔭 I'm currently working on enterprise applications focusing on cloud platforms such as AWS
 - 🌱 Working with Python, Javascript, Bash and currently learning Rust
+- 👯 Looking to collaborate with other developers.
 <!-- 👯 I'm looking to collaborate on ...-->
 - 🤔 I'm looking for help with ...hmmm
 - 💬 Ask me about Python and API designs
