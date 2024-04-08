@@ -7,7 +7,7 @@
 ## What I'm up to:
 
 - 🔭 I'm currently working on enterprise applications focusing on cloud platforms such as AWS
-- 🌱 I'm currently learning Data science and ML
+- 🌱 Working with Python, Javascript, Bash and currently learning Rust
 <!-- 👯 I'm looking to collaborate on ...-->
 - 🤔 I'm looking for help with ...hmmm
 - 💬 Ask me about Python and API designs
