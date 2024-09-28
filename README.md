@@ -4,7 +4,7 @@
 **evansa/evansa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## I'm a Father, Lifelong Student, and Engineer!
+## I'm a Father, Lifelong Student and Engineer!
 
 - 🔭 I'm currently working on enterprise applications focusing on cloud platforms such as AWS
 - 🌱 Working with Python, Javascript, Bash and currently learning Rust
